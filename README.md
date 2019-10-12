@@ -10,10 +10,6 @@
 # A sample of the files is saved on the required directory.
 # Trained RNN is saved on the directory named 'model'.
 # When you want to retrain the model, please delete the files under directory named 'model'. 
-# 
-## Extra info ##
-# The showed plot, when the model is running, is a result of the prediction.
-# Red line is real demand and blue line is predicted target level.
 #
 ## Output info ##
 # Output files, which are results of this program, are named 'output.csv' and 'summary.csv'
